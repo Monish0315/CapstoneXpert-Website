@@ -7,16 +7,16 @@ The project involves the creation of an e-learning website using HTML, CSS, Boot
 
 ## Introduction
 
-Secret Coder is an e-learning website designed to provide a user-friendly and responsive platform for learners to access educational content. The project incorporates HTML, CSS, Bootstrap 5, and JavaScript to create an interactive and visually appealing learning experience.
+CapstoneXpert is an e-learning website designed to provide a user-friendly and responsive platform for learners to access educational content. The project incorporates HTML, CSS, Bootstrap 5, and JavaScript to create an interactive and visually appealing learning experience.
 
 ## Features
 
 - Responsive design using Bootstrap 5.
 - Structured course catalog with detailed descriptions.
 - Interactive lessons.
-- User can register and login.
+- User can register and review.
 - User authentication for personalized learning experiences.
-- Instructor application form.
+- Developer application form.
 - User can also contact us.
 
 ## Getting Started
@@ -48,7 +48,7 @@ Before you begin, ensure you have the following prerequisites:
 
 ## Contributing 
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](/issues).
+Contributions, issues, and feature requests are welcome! Feel OFFER to check the [issues page](/issues).
 
 ## Show your support 
 
@@ -57,4 +57,4 @@ Give a ⭐️ if you like this project!
 
 ## License
 
-This project is **free to use** and does not contains any license.
+This project is **OFFER to use** and does not contains any license.

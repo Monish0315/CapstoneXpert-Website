@@ -7,7 +7,7 @@
 }
 
 .btn {
-    background-color: #fb873f;
+    background-color: #6b03fc;
     border: none;
 }
 
@@ -158,11 +158,11 @@
 }
 
 .navbar-toggler-icon {
-    color: #fb873f;
+    color: #6b03fc;
 }
 
 .navbar-toggler {
-    border: 2px solid #fb873f;
+    border: 2px solid #6b03fc;
 }
 
 @media (min-width: 992px) {
@@ -371,7 +371,7 @@
     border-radius: 5px;
 }
 
-/*** Categories & Courses ***/
+/*** Categories & Projects ***/
 
 .category .content {
     cursor: pointer;
